@@ -6,7 +6,7 @@
     Pros: Cheap
     Cons: Someone needs to pin our data on IPFS node
 
-3. Dynamic SVG NFT
+3. Dynamic SVG NFT ✅
     Pros: The data is on chain!
     Cons: Much more expensive.
 
